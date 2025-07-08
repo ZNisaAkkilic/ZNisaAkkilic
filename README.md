@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Zeynep Nisa Akkılıç 👋</h1>
 
-<!--
-**ZNisaAkkilic/ZNisaAkkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yeni mezun Bilgisayar Mühendisiyim  
+💡 Veri bilimi, yapay zekayla ilgileniyorum  
+🚀 Projelerimi açık kaynaklı olarak paylaşmayı seviyorum  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+`Python` `scikit-learn` `Pandas` `TensorFlow` `Keras`    
+`Streamlit`   
+
+---
+
+### 📫 Bana Ulaşın
+
+- 📧 akkiliczeynepnisa@gmail.com  
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/zeynep-nisa-akk%C4%B1l%C4%B1%C3%A7-b47ba9227/)
+
